@@ -137,7 +137,7 @@ I've included screenshots to show how the dApp looked and how it functioned, whi
 
 * Voters Page - Here the voter gets the chance to vote for their favorite candidate using their wallet address to cast the vote. Once vote has been cast then confirmation of vote is displayed.
 
-![Voting Page](images/dapp-voterspage.png)
+![Voting Page](Images/dapp-voterspage.png)
 
 ---
 
